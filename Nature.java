@@ -20,8 +20,8 @@ public class Nature {
         eyeCherry.glide();
         eyeCherry.descend(140);
         eyeCherry.land();
-        eyeCherry.descend(10);
-        eyeCherry.land();
-        
+        eyeCherry.descend(9);
+        eyeCherry.land(); // changed land method to accept 1 altitude for landing
+
     }
 }
