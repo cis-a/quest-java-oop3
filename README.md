@@ -1,5 +1,5 @@
 # quest-java-oop3
-Adds Fly interface and modifies Eagle and Nature accordinly
+Adds Fly interface and modifies Eagle and Nature accordingly
 
 Output:
 $ java Nature
