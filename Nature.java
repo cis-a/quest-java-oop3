@@ -13,15 +13,15 @@ public class Nature {
 
         Eagle eyeCherry = new Eagle("Eye Cherry");
         // TODO : uncomment the following code in order to test it
-        /*
+
         eyeCherry.takeOff();
         eyeCherry.ascend(120);
         eyeCherry.ascend(30);
         eyeCherry.glide();
         eyeCherry.descend(140);
         eyeCherry.land();
-        eyeCherry.descend(9);
+        eyeCherry.descend(10);
         eyeCherry.land();
-        */
+        
     }
 }
